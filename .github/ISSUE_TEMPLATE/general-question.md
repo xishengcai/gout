@@ -12,8 +12,8 @@ Before asking a question, make sure you have:
 
 - Searched existing Stack Overflow questions.
 - Googled your question.
-- Searched open and closed [GitHub issues](https://github.com/guonaihong/gout/issues)
+- Searched open and closed [GitHub issues](https://github.com/xishengcai/gout/issues)
 - Read the documentation:
-  - [gout Readme](https://github.com/guonaihong/gout/blob/master/README.md)
+  - [gout Readme](https://github.com/xishengcai/gout/blob/master/README.md)
 
 -->

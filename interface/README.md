@@ -1,7 +1,7 @@
 ## 不建议使用这个目录下的代码
 建议使用如下目录
 ```go
-github.com/guonaihong/gout/middler
+github.com/xishengcai/gout/middler
 ```
 
 ## 这个目录的代码将在未来4-5个版本迭代之后删除

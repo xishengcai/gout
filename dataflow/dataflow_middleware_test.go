@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	core "github.com/guonaihong/gout/core"
+	core "github.com/xishengcai/gout/core"
 
-	"github.com/guonaihong/gout/middler"
+	"github.com/xishengcai/gout/middler"
 	"github.com/stretchr/testify/assert"
 )
 

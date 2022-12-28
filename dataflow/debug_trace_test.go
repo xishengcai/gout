@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/guonaihong/gout/debug"
+	"github.com/xishengcai/gout/debug"
 	"github.com/stretchr/testify/assert"
 )
 

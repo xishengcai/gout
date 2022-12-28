@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/guonaihong/gout/encode"
+	"github.com/xishengcai/gout/encode"
 	"github.com/stretchr/testify/assert"
 )
 

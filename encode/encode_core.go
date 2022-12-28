@@ -9,7 +9,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout/core"
 )
 
 // ErrUnsupported Unsupported type error returned
@@ -126,7 +126,7 @@ func valToStr(v reflect.Value, sf reflect.StructField) string {
 	}
 
 	// 看:
-	// https://github.com/guonaihong/gout/issues/322
+	// https://github.com/xishengcai/gout/issues/322
 	/*
 		if v.IsZero() {
 			return ""

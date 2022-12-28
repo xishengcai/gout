@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/guonaihong/gout/core"
 	"github.com/stretchr/testify/assert"
+	"github.com/xishengcai/gout/core"
 )
 
 func testTcpSocket(out *bytes.Buffer, quit chan bool, t *testing.T) (addr string) {

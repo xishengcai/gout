@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/guonaihong/gout"
+	"github.com/xishengcai/gout"
 )
 
 func genFormCurl() {

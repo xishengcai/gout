@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/guonaihong/gout/debug"
 	"github.com/stretchr/testify/assert"
+	"github.com/xishengcai/gout/debug"
 )
 
 type queryWithSlice struct {

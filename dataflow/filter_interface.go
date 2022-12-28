@@ -1,7 +1,7 @@
 package dataflow
 
 import (
-	"github.com/guonaihong/gout/bench"
+	"github.com/xishengcai/gout/bench"
 	"io"
 	"time"
 )

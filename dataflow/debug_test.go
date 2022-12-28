@@ -9,9 +9,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/guonaihong/gout/color"
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/debug"
+	"github.com/xishengcai/gout/color"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/debug"
 	"github.com/stretchr/testify/assert"
 )
 

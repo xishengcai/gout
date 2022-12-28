@@ -3,7 +3,7 @@ package gout
 import (
 	"net/http"
 
-	"github.com/guonaihong/gout/dataflow"
+	"github.com/xishengcai/gout/dataflow"
 )
 
 type Client struct {

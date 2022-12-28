@@ -1,7 +1,7 @@
 package gout
 
 import (
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout/core"
 )
 
 // ReadCloseFail required for internal testing, external can be ignored

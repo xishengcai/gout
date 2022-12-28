@@ -3,7 +3,7 @@ package setting
 import (
 	"time"
 
-	"github.com/guonaihong/gout/debug"
+	"github.com/xishengcai/gout/debug"
 )
 
 // 设置

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/guonaihong/gout"
+	"github.com/xishengcai/gout"
 	"math/rand"
 	"time"
 )

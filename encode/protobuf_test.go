@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/guonaihong/gout/testdata"
+	"github.com/xishengcai/gout/testdata"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/proto"
 )

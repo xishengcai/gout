@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/guonaihong/gout"
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout"
+	"github.com/xishengcai/gout/core"
 	"time"
 )
 

@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/guonaihong/gout/bench"
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/dataflow"
+	"github.com/xishengcai/gout/bench"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/dataflow"
 )
 
 // Bench provide benchmark features

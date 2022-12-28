@@ -9,13 +9,13 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/guonaihong/gout/debug"
-	"github.com/guonaihong/gout/decode"
-	"github.com/guonaihong/gout/encode"
-	"github.com/guonaihong/gout/enjson"
-	"github.com/guonaihong/gout/middler"
-	"github.com/guonaihong/gout/middleware/rsp/autodecodebody"
-	"github.com/guonaihong/gout/setting"
+	"github.com/xishengcai/gout/debug"
+	"github.com/xishengcai/gout/decode"
+	"github.com/xishengcai/gout/encode"
+	"github.com/xishengcai/gout/enjson"
+	"github.com/xishengcai/gout/middler"
+	"github.com/xishengcai/gout/middleware/rsp/autodecodebody"
+	"github.com/xishengcai/gout/setting"
 	"golang.org/x/net/proxy"
 )
 
@@ -420,7 +420,7 @@ func (df *DataFlow) Debug(d ...interface{}) *DataFlow {
 	return df
 }
 
-// https://github.com/guonaihong/gout/issues/264
+// https://github.com/xishengcai/gout/issues/264
 // When calling SetWWWForm(), the Content-Type header will be added automatically,
 // and calling NoAutoContentType() will not add an HTTP header
 //
@@ -431,7 +431,7 @@ func (df *DataFlow) NoAutoContentType() *DataFlow {
 	return df
 }
 
-// https://github.com/guonaihong/gout/issues/343
+// https://github.com/xishengcai/gout/issues/343
 // content-encoding会指定response body的压缩方法，支持常用的压缩，gzip, deflate, br等
 func (df *DataFlow) AutoDecodeBody() *DataFlow {
 	return df.ResponseUse(middler.WithResponseMiddlerFunc(autodecodebody.AutoDecodeBody))

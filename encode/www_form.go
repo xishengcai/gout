@@ -1,8 +1,8 @@
 package encode
 
 import (
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/setting"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/setting"
 	"io"
 	"net/url"
 	"reflect"

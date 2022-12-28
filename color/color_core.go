@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/guonaihong/gout/enjson"
+	"github.com/xishengcai/gout/enjson"
 )
 
 // BodyType 区分body的类型

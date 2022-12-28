@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/encoder"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/encoder"
 	"gopkg.in/yaml.v2"
 )
 

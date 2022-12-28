@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/guonaihong/gout/setting"
+	"github.com/xishengcai/gout/setting"
 )
 
 var _ Adder = (*QueryEncode)(nil)

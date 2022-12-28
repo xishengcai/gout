@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout/core"
 )
 
 // BodyDecode body decoder structure

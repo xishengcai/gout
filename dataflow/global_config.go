@@ -1,7 +1,7 @@
 package dataflow
 
 import (
-	"github.com/guonaihong/gout/setting"
+	"github.com/xishengcai/gout/setting"
 )
 
 // 存放全局配置选项

@@ -5,8 +5,8 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/encoder"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/encoder"
 )
 
 // BodyEncode body encoder structure

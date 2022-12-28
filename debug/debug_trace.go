@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/guonaihong/gout/color"
-	"github.com/guonaihong/gout/middler"
+	"github.com/xishengcai/gout/color"
+	"github.com/xishengcai/gout/middler"
 )
 
 type TraceInfo struct {

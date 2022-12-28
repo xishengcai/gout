@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout/core"
 	"github.com/stretchr/testify/assert"
 )
 

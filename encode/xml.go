@@ -6,8 +6,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/encoder"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/encoder"
 )
 
 var ErrNotXML = errors.New("Not xml data")

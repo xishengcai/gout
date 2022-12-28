@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/guonaihong/gout/core"
+	"github.com/xishengcai/gout/core"
 	"github.com/stretchr/testify/assert"
 )
 

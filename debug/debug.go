@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/guonaihong/gout/color"
+	"github.com/xishengcai/gout/color"
 )
 
 // ToBodyType Returns the http body type,

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/guonaihong/gout"
-	"github.com/guonaihong/gout/core"
-	"github.com/guonaihong/gout/filter"
+	"github.com/xishengcai/gout"
+	"github.com/xishengcai/gout/core"
+	"github.com/xishengcai/gout/filter"
 	"time"
 )
 
