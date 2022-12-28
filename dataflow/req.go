@@ -576,6 +576,8 @@ func (r *Req) Do() (err error) {
 	switch {
 	case resp.StatusCode == http.StatusSwitchingProtocols:
 		// no-op, we've been upgraded
+	case resp.StatusCode >= http.StatusInternalServerError:
+		return errors.New("服务器内部错误")
 	case resp.StatusCode < http.StatusOK || resp.StatusCode > http.StatusPartialContent:
 		return transformResponse(resp)
 	}
